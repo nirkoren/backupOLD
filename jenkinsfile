@@ -12,6 +12,8 @@ pipeline {
          post {
             success {
                junit '**/target/surefire-reports/TEST-*.xml'
+               
+               //check
             }
          }
       }
