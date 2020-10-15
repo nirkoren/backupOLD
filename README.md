@@ -1,5 +1,5 @@
 # Hello and welcome to DevOpsCon demo repository
-## This repo contains basic Maven project with Hello-World war file 
+## This repo contains basic Maven project with hello-World war file 
 In order to make it work, please do the following: 
 
 <ul>
