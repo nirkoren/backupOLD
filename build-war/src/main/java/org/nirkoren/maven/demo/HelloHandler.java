@@ -8,7 +8,7 @@ public class HelloHandler {
 	public String sayHello() {
 		SimpleDateFormat formatter= new SimpleDateFormat("yyyy-MM-dd 'at' HH:mm:ss z");
 		Date date = new Date(System.currentTimeMillis());
-		return "Dear Developer, is it working from your laptop?" + formatter.format(date);
+		return "Dear Developer, is it working from your laptop? Current time is:" + formatter.format(date);
 	}
 
 }
