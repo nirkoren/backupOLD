@@ -21,3 +21,5 @@ In order to make it work, please do the following:
  > ```
 
 ## Notes
+
+ * Should start build
