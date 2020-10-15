@@ -1,6 +1,6 @@
 # Hello and welcome to DevOpsCon demo repository
 ## This repo contains basic Maven project with Hello-World war file 
-In order to make it work, please do the following: 
+In order to make it work, please do the following: Test Nr2
 
 <ul>
   <li>Make sure JAVA 8 is running on your laptop</li>
