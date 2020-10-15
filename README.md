@@ -1,7 +1,7 @@
 # Hello and welcome to DevOpsCon demo repository
 ## This repo contains basic Maven project with Hello-World war file 
 
-first a test commit
+first a test commit #2
 
 In order to make it work, please do the following: 
 
