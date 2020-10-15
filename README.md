@@ -9,6 +9,8 @@ In order to make it work, please do the following:
   <li>[LINUX / MAC] Make sure you have running permissions <TOMCAT DIR>/bin/ and run chmod +x *.sh</li>
   <li>Restart tomcat <TOMCAT DIR>/bin/shutdown.sh & startup.sh</li>
   <li>Application URL is <a href=http://localhost:8080/helloworld/>http://localhost:8080/helloworld/</a></li>  
+<p>totally relevant change</p>
+
 </ul>
 
  > ```xml
