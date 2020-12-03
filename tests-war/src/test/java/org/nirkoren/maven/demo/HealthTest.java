@@ -8,7 +8,6 @@ import java.net.URL;
 import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Test;
-import org.nirkoren.maven.demo.TomcatPropsHandler;
 
 public class HealthTest {
 
