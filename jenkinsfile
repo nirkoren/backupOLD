@@ -9,7 +9,6 @@ pipeline {
             steps {
                 git 'https://github.com/nirkoren/devopscon.git'
                 sh "mvn clean install -Pci"
-                println "fffffffffffffff"
             }
             post {
                 success {
