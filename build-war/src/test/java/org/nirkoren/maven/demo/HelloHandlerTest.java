@@ -2,7 +2,6 @@ package org.nirkoren.maven.demo;
 
 import org.junit.Assert;
 import org.junit.Test;
-import org.nirkoren.maven.demo.HelloHandler;
 
 public class HelloHandlerTest {
 
