@@ -8,7 +8,7 @@ pipeline {
         stage('Build') {
             steps {
                 git 'https://github.com/philemonlang/devopscon.git'
-                sh "mvn clean install -Pci"
+                bat "mvn clean install -Pci"
             }
             post {
                 success {
