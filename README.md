@@ -10,7 +10,7 @@ In order to make it work, please do the following:
   <li>Restart tomcat <TOMCAT DIR>/bin/shutdown.sh & startup.sh</li>
   <li>Application URL is <a href=http://localhost:8080/helloworld/>http://localhost:8080/helloworld/</a></li>  
 </ul>
-
+##Julie was here!  :)
  > ```xml
  > <tomcat-users>
  >   <role rolename="manager-gui" />
